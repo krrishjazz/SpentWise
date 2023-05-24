@@ -1,0 +1,2 @@
+class ExpenseMailer < ApplicationMailer
+end
